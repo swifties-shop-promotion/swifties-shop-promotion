@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "name": "Love Story Vinyl (Platinum Edition)",
+    "category": "vinyl",
+    "era": "fearless",
+    "price": 34.99,
+    "rating": 4.9,
+    "inStock": true,
+    "bestSeller": true,
+    "images": [
+      "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e027b25c072237f29ee50025fdc",
+      "https://store.taylorswift.com/cdn/shop/files/xDn4hZFEqGdJ30xLjXeL6AXpNLxj3rS8_23552012-885a-4dd4-8a59-7e5ab48c06d9.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Anti-Hero Oversized Tee",
+    "category": "merch",
+    "era": "midnights",
+    "price": 29.99,
+    "rating": 4.7,
+    "inStock": true,
+    "bestSeller": true,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02fa747621a53c8e2cc436dee0",
+      "https://store.taylorswift.com/cdn/shop/files/1-MQDS299P.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Eras Tour Holographic Ticket",
+    "category": "tickets",
+    "era": "ttpd",
+    "price": 12.99,
+    "rating": 4.8,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
+      "https://picsum.photos/seed/ticket3a/400/400"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Folklore Cardigan Knit Sweater",
+    "category": "merch",
+    "era": "folklore",
+    "price": 64.99,
+    "rating": 4.6,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02c288028c2592f400dd0b9233",
+      "https://picsum.photos/seed/cardi4b/400/400",
+      "https://picsum.photos/seed/cardi4c/400/400"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "1989 Seagull Friendship Bracelet Set",
+    "category": "friendship-bracelets",
+    "era": "1989",
+    "price": 9.99,
+    "rating": 4.5,
+    "inStock": true,
+    "bestSeller": true,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0252b2a3824413eefe9e33817a",
+      "https://store.taylorswift.com/cdn/shop/files/1-8ZSQBWXT.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lover Butterfly Enamel Pin Set",
+    "category": "accessories",
+    "era": "lover",
+    "price": 14.99,
+    "rating": 4.4,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02e787cffec20aa2a396a61647",
+      "https://picsum.photos/seed/pin6b/400/400"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Reputation Snake Ring (Gold)",
+    "category": "accessories",
+    "era": "reputation",
+    "price": 22.99,
+    "rating": 4.3,
+    "inStock": false,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02da5d5aeeabacacc1263c0f4b",
+      "https://picsum.photos/seed/ring7a/400/400"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Red (Taylor's Version) Vinyl",
+    "category": "vinyl",
+    "era": "red",
+    "price": 32.99,
+    "rating": 4.9,
+    "inStock": true,
+    "bestSeller": true,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02318443aab3531a0558e79a4d",
+      "https://store.taylorswift.com/cdn/shop/files/7E9Iulkto6PMpDvyy25y-2.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Shake It Off Confetti Cannon",
+    "category": "confetti",
+    "era": "1989",
+    "price": 7.99,
+    "rating": 4.2,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0252b2a3824413eefe9e33817a",
+      "https://picsum.photos/seed/confetti9a/400/400"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Speak Now Fan Postcard Set",
+    "category": "fan-cards",
+    "era": "sl",
+    "price": 6.99,
+    "rating": 4.1,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02e11a75a2f2ff39cec788a015",
+      "https://media.istockphoto.com/id/2194296059/vector/valentines-day-stamp.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Evermore Mushroom Enamel Mug",
+    "category": "merch",
+    "era": "evermore",
+    "price": 18.99,
+    "rating": 4.6,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0290fd9741e1838115cd90b3b6",
+      "https://picsum.photos/seed/mug11b/400/400"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Midnight Rain Perfume Roller",
+    "category": "accessories",
+    "era": "midnights",
+    "price": 19.99,
+    "rating": 4.5,
+    "inStock": false,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02fa747621a53c8e2cc436dee0",
+      "https://picsum.photos/seed/perfume12a/400/400"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Taylor Swift Debut Vinyl",
+    "category": "vinyl",
+    "era": "ts",
+    "price": 28.99,
+    "rating": 4.7,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02c909d4e47de2ab0636f46d64",
+      "https://cdn.pixabay.com/photo/2026/03/12/19/04/19-04-46-395_1280.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "TTPD Tortured Poet Notebook",
+    "category": "merch",
+    "era": "ttpd",
+    "price": 15.99,
+    "rating": 4.3,
+    "inStock": true,
+    "bestSeller": true,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
+      "https://picsum.photos/seed/notebook14b/400/400",
+      "https://picsum.photos/seed/notebook14c/400/400"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Eras Tour Glitter Friendship Bracelet Kit",
+    "category": "friendship-bracelets",
+    "era": "lover",
+    "price": 12.99,
+    "rating": 4.4,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02e787cffec20aa2a396a61647",
+      "https://picsum.photos/seed/kit15b/400/400"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Fearless Starry Night Fan Card Pack",
+    "category": "fan-cards",
+    "era": "fearless",
+    "price": 8.99,
+    "rating": 4.2,
+    "inStock": true,
+    "bestSeller": false,
+    "images": [
+      "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e027b25c072237f29ee50025fdc",
+      "https://picsum.photos/seed/fancard16a/400/400"
+    ]
+  }
+]
